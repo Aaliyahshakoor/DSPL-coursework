@@ -6,10 +6,6 @@ import pandas as pd
 st.set_page_config(page_title="🌿 Sri Lanka Environmental Dashboard", layout="wide")
 st.title("🇱🇰 Sri Lanka Environmental Indicators Dashboard")
 
-# Add image
-st.image("/Users/Aaliyah/Downloads/sri lanka image.jpg", use_column_width=True, caption="Explore Sri Lanka's Environment")
-
-
 # Intro
 st.markdown("""
 Welcome to the **Sri Lanka Environmental Indicators Dashboard**  
